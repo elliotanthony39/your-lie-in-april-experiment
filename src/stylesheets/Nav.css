@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap");
+
+.container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  height: 10vh;
+  z-index: 2;
+  position: relative;
+}
+
+.play-button,
+.sunset-button {
+  background-color: transparent;
+  border: none;
+  color: black;
+  cursor: pointer;
+  font-size: 16px;
+  padding: 10px 20px;
+  margin: 0 10px;
+  transition: color 0.3s;
+}
+
+.play-button:hover,
+.sunset-button:hover {
+  color: neon;
+  text-shadow: 0 0 5px neon;
+}
+
+.glass {
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 20px;
+  backdrop-filter: blur(25px);
+  box-shadow: -15px 17px 17px rgba(10, 10, 10, 0.25);
+}
+
+a {
+  text-decoration: none;
+  color: antiquewhite;
+}
+
+span {
+  font-family: "Dancing Script", cursive;
+  font-size: 24px;
+  font-weight: bold;
+}
