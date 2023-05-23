@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/your-lie-in-april-experiment/static/css/main.ee8239c3.css",
+    "main.js": "/your-lie-in-april-experiment/static/js/main.8d382da0.js",
+    "static/js/787.78805948.chunk.js": "/your-lie-in-april-experiment/static/js/787.78805948.chunk.js",
+    "index.html": "/your-lie-in-april-experiment/index.html",
+    "main.ee8239c3.css.map": "/your-lie-in-april-experiment/static/css/main.ee8239c3.css.map",
+    "main.8d382da0.js.map": "/your-lie-in-april-experiment/static/js/main.8d382da0.js.map",
+    "787.78805948.chunk.js.map": "/your-lie-in-april-experiment/static/js/787.78805948.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee8239c3.css",
+    "static/js/main.8d382da0.js"
+  ]
+}
